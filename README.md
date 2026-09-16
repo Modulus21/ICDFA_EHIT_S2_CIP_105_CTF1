@@ -781,3 +781,5 @@ This engagement was conducted exclusively against a designated, purpose-built tr
 ## Conclusion
 
 Operation Iron Raven demonstrates a complete, evidence-backed offensive security engagement — from initial host discovery through full root-level compromise — executed against a realistic, vulnerable target using an industry-aligned methodology. Every stage of the attack chain relied on publicly known, well-documented vulnerabilities and misconfigurations, underscoring that disciplined reconnaissance, careful analysis, and methodical troubleshooting are often more decisive than exotic techniques. This project reflects hands-on, reproducible offensive security capability, professional-grade documentation practices, and a clear understanding of both the technical and business dimensions of penetration testing.
+
+Lastly, the screenshots are much, they're included in the zip file
